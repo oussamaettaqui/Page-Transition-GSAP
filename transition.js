@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     each: 0.1,
                     from: "start",
                     grid: [2, 5],
-                    axis: 'x',       
+                    axis: 'x',
                 },
                 ease: ease,
                 onComplete: resolve,
